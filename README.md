@@ -1,13 +1,8 @@
-<p align="center">
-  <!-- Top banner placeholder -->
-  <img src="https://github.com/user-attachments/assets/b8251ae3-8a64-43b5-b47a-13b0d469191e" alt="Footer banner placeholder" width="100%" />
-</p>
-<br/>
 <div align="center">
 <h3 align="center">Hi, my name is Senad</h3>
-<h1 align="center">
+<h2 align="center">
    DevOps from Croatia
-</h3>
+</h2>
 
 <p>
   Passionate about automation, cloud infrastructure, and reliable software delivery.
@@ -18,7 +13,7 @@
 </p>
 
 </div>
-<h3 align="center">
+<h3 align="left">
    About
 </h3>
 <ul>
@@ -27,7 +22,7 @@
   <li>Enjoy turning manual, error-prone processes into repeatable infrastructure-as-code.</li>
 </ul>
 
-<h3 align="center">
+<h3 align="left">
    What I Do
 </h3>
 <ul>
@@ -58,19 +53,6 @@
   <img src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
-<h3 align="center">
-   Toolbox
-</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Infrastructure_as_Code-Terraform-5C4EE5?logo=terraform&logoColor=white" alt="IaC Terraform" />
-  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?logo=docker&logoColor=white" alt="Containers Docker" />
-  <img src="https://img.shields.io/badge/Orchestration-Containers-326CE5?logo=docker&logoColor=white" alt="Containers" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazon-aws&logoColor=ff9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  
-</p>
 
 <h3 align="center">
    GitHub Stats
@@ -87,7 +69,7 @@
 
 </div>
 
-<h3 align="center">
+<h3 align="left">
    Recent Activity
 </h3>
 
@@ -123,7 +105,3 @@
 
 </p>
 <br/>
-<p align="center">
-  <!-- Footer banner placeholder -->
-  <img src="https://github.com/user-attachments/assets/77156c9e-94d2-4d49-9f21-f174d9bfb47c" alt="Footer banner placeholder" width="100%" />
-</p>
