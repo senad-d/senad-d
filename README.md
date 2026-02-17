@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Top banner placeholder -->
-  ![SCR-20260217-swbu](https://github.com/user-attachments/assets/b8251ae3-8a64-43b5-b47a-13b0d469191e)
+  <img src="https://github.com/user-attachments/assets/b8251ae3-8a64-43b5-b47a-13b0d469191e" alt="Footer banner placeholder" width="100%" />
 </p>
 <br/>
 <div align="center">
@@ -125,5 +125,5 @@
 <br/>
 <p align="center">
   <!-- Footer banner placeholder -->
-  ![SCR-20260217-svzi](https://github.com/user-attachments/assets/77156c9e-94d2-4d49-9f21-f174d9bfb47c)
+  <img src="https://github.com/user-attachments/assets/77156c9e-94d2-4d49-9f21-f174d9bfb47c" alt="Footer banner placeholder" width="100%" />
 </p>
